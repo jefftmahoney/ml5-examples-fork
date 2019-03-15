@@ -2,6 +2,8 @@
 
 ## Description
 
+**NOTE**: This repository is a clone of the 'examples' repo found on the ML5 repo (https://github.com/ml5js).
+
 This repository contains a collection of  examples using [ml5.js](https://github.com/ml5js/ml5-library). The examples are meant to serve as an introduction to the library and machine learning concepts.
 
 Examples are organized into folders according to their integration with other JavaScript libraries.
